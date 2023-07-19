@@ -3,13 +3,13 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Holloway;William;;;
 FN: Will Holloway, MBA
-ORG:Clyde CISD;
-TITLE:Director of Emergency Management, Business & Marketing Teacher, Civil Air Patrol Sponsor, eSports Coach
-EMAIL;type=INTERNET;type=WORK;type=pref:wholloway@clydeisd.org
-TEL;type=WORK;type=VOICE:+1 (325)893-2161
+ORG:Region 14 ESC;
+TITLE:Safety and Security Consultant
+EMAIL;type=INTERNET;type=WORK;type=pref:wholloway@esc14.net
+TEL;type=WORK;type=VOICE:+1 (325)675-8600
 TEL;type=Work;type=CELL:+1 (325)518-1620
-item1.ADR;type=WORK;type=pref:;;500 N. Hays Road;Clyde;TX;79510;USA
+item1.ADR;type=WORK;type=pref:;;1850 Highway 351;Abilene;TX;79601;USA
 item1.X-ABADR:sg
-item2.URL;type=pref:clydeisd.org
+item2.URL;type=pref:esc14.net
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
